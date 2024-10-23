@@ -11,7 +11,7 @@ ARCHPR详细使用教程可以参考：https://www.52pojie.cn/thread-1691394-1-1
 fcrackzip详细使用教程可以参考：https://cloud.tencent.com/developer/article/2092291
 （视频演示中加了-v选项，可以实时查看解密过程）
 
-## 在线视频下载相关链接
+## (在线视频下载相关链接)[https://www.bilibili.com/video/BV1WaCUYtEcA]
 
 在线解析网站推荐 https://www.xiazaitool.com/
 
@@ -19,5 +19,5 @@ CR TubeGet 下载 https://pan.baidu.com/s/1xUxFAqQUSOOVOPBXPBATmw?pwd=0000
 
 Downie 4 下载 https://www.123pan.com/s/ZFF9-p3nPA
 
-## 换脸软件
+## (换脸软件)[https://www.bilibili.com/video/BV1ozm5YbExy]
 直播换脸封装包下载链接：pan.quark.cn/s/e7763cfa00b2
