@@ -1,6 +1,6 @@
 # 工具合集
 
-## 漫画翻译
+## [漫画翻译](https://www.bilibili.com/video/BV1wUSNYJE5z/)
 
 misaka translator B站地址： https://www.bilibili.com/video/BV1Qt4y11713/
 
