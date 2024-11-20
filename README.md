@@ -1,5 +1,13 @@
 # 工具合集
 
+## 漫画翻译
+
+misaka translator B站地址： https://www.bilibili.com/video/BV1Qt4y11713/spm_id_from=333.999.0.0&vd_source=04c1f9f8ff87a2b346cef69821c946fa
+
+misaka translator GitHub地址：https://github.com/hanmin0822/MisakaTranslator
+
+comic-translate : https://github.com/ogkalu2/comic-translate
+
 ## [压缩包破解](https://www.bilibili.com/video/BV162yfYQEv1)
 
 Advanced Archive Password Recovery 4.54-压缩包破解工具
