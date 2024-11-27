@@ -1,6 +1,6 @@
 # 工具合集
 
-## 玩转服务器
+## [玩转服务器](https://www.bilibili.com/video/BV1dNzgYoEND)
 
 宝塔面板安装教程：https://www.bt.cn/bbs/thread-19376-1-1.html
 
