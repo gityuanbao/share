@@ -1,5 +1,17 @@
 # 工具合集
 
+## BT下载
+
+qBEE仓库: https://github.com/c0re100/qBittorrent-Enhanced-Edition
+
+PeerBanHelper仓库: https://github.com/PBH-BTN/PeerBanHelper
+
+docker版本的qBEE仓库: https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition
+
+qBEE的docker镜像：https://hub.docker.com/r/superng6/qbittorrentee
+
+彩蛋：RARBG国外电影资源站-https://en.rarbg-official.com/
+
 ## [玩转服务器](https://www.bilibili.com/video/BV1dNzgYoEND)
 
 宝塔面板安装教程：https://www.bt.cn/bbs/thread-19376-1-1.html
