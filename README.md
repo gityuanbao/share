@@ -1,5 +1,13 @@
 # 工具合集
 
+## 快乐抽奖
+
+B站抽奖转发仓库：https://github.com/rongchenlin/BiliBili-Lucky-Draw
+
+自动删除B站转发抽奖动态：https://github.com/monSteRhhe/bilibili-dynamic-del
+
+成分识别脚本：https://greasyfork.org/zh-CN/scripts/462288-%E6%94%B9-b%E7%AB%99%E6%88%90%E5%88%86%E6%A3%80%E6%B5%8B%E5%99%A8
+
 ## BT下载
 
 qBEE仓库: https://github.com/c0re100/qBittorrent-Enhanced-Edition
