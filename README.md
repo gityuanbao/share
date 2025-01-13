@@ -1,5 +1,13 @@
 # 工具合集
 
+## 科研神器
+
+近邻词汇检索网站链接 https://tool.mingdawoo.com/lang/nearby_word/
+
+查重与降重工具开源仓库 https://github.com/imoki/PaperTools
+
+zotero开源仓库 https://github.com/zotero/zotero 浏览器插件名称：Zotero Connector
+
 ## 快乐抽奖
 
 B站抽奖转发仓库：https://github.com/rongchenlin/BiliBili-Lucky-Draw
