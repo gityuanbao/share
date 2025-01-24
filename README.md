@@ -1,5 +1,10 @@
 # 工具合集
 
+## DiT相关论文
+
+《An Image is Worth 16x16 Words, What is a Video Worth?》https://arxiv.org/pdf/2103.13915
+《Scalable Diffusion Models with Transformers》 https://openaccess.thecvf.com/content/ICCV2023/papers/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.pdf
+
 ## IP科普文章与工具
 
 IPv4与IPv6科普文章 https://www.avast.com/c-ipv4-vs-ipv6-addresses
