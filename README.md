@@ -30,6 +30,10 @@ https://news.mydrivers.com/1/1028/1028461.htm
 
 https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf
 
+排行榜-
+
+LMSys的Chatbot Arena LLM Leaderboard： https://lmarena.ai/?leaderboard
+
 ## DiT相关论文
 
 《An Image is Worth 16x16 Words, What is a Video Worth?》https://arxiv.org/pdf/2103.13915
