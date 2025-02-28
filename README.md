@@ -1,49 +1,14 @@
-# 工具合集
+# 源宝的开源仓库
 
-## DeepSeek视频引用资料
+🌟Welcome to Yuanbao's open-source repository.🌟
 
-经济学人-
+[《被腾讯爆改的DeepSeek能有多强？能识图的满血联网版deepseek实测!》测试满血问题合集](./DeepSeek_Full_Capacity_Test.md)
 
-https://www.economist.com/briefing/2025/01/23/chinas-ai-industry-has-almost-caught-up-with-americas
+[《DeepSeek是被吹出来的？还是真的强？》视频参考资料](./DeepSeek_Hype_vs_Power.md)
 
-https://www.economist.com/business/2025/01/27/deepseek-sends-a-shockwave-through-markets
+[《一口气学会AI短剧视频制作！》DiT技术参考论文](./DiT_Research_Papers.md)
 
-纽约时报-
-
-https://www.nytimes.com/2025/01/28/business/economy/deepseek-china-us-chip-controls.html 
-
-奥特曼推特-
-
-https://x.com/sama/status/1872664379608727589
-
-https://x.com/sama/status/1884066337103962416
-
-硬盘缓存-
-
-https://api-docs.deepseek.com/zh-cn/news/news0802
-
-PTX底层硬件指令-
-
-https://news.mydrivers.com/1/1028/1028461.htm
-
-参考论文-
-
-https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf
-
-排行榜-
-
-LMSys的Chatbot Arena LLM Leaderboard： https://lmarena.ai/?leaderboard
-
-## DiT相关论文
-
-《An Image is Worth 16x16 Words, What is a Video Worth?》https://arxiv.org/pdf/2103.13915
-《Scalable Diffusion Models with Transformers》 https://openaccess.thecvf.com/content/ICCV2023/papers/Peebles_Scalable_Diffusion_Models_with_Transformers_ICCV_2023_paper.pdf
-
-## IP科普文章与工具
-
-IPv4与IPv6科普文章 https://www.avast.com/c-ipv4-vs-ipv6-addresses
-
-公网IP地址查询网站 https://www.ip138.com/
+[《你的IP是如何泄露的？》引用链接](./How_Your_IP_Gets_Leaked.md)
 
 ## 科研神器
 
