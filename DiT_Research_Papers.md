@@ -1,3 +1,7 @@
+## 视频链接
+
+https://www.bilibili.com/video/BV1FvfnY2E3f/
+
 ## DiT相关论文
 
 （1）《An Image is Worth 16x16 Words, What is a Video Worth?》

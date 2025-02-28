@@ -1,3 +1,7 @@
+## 视频链接
+
+https://www.bilibili.com/video/BV1SKP4etE1k/
+
 ## 检测DeepSeek-R1是否满血的提示词
 
 （测试时请关闭联网功能）

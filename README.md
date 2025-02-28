@@ -10,55 +10,17 @@
 
 [《你的IP是如何泄露的？》引用链接](./How_Your_IP_Gets_Leaked.md)
 
-## 科研神器
+[《2025年必备四个AI神器推荐》工具链接](./Sci_Research_Tool.md)
 
-近邻词汇检索网站链接 https://tool.mingdawoo.com/lang/nearby_word/
+[《如何使⽤种⼦和磁⼒链接下载？》工具链接](./BT_Download.md)
 
-查重与降重工具开源仓库 https://github.com/imoki/PaperTools
+[《2024最有趣的计算机项目》资源链接](./Top_2024_CS_Projects.md)
 
-zotero开源仓库 https://github.com/zotero/zotero 浏览器插件名称：Zotero Connector
+---
 
-## 快乐抽奖
 
-B站抽奖转发仓库：https://github.com/rongchenlin/BiliBili-Lucky-Draw
 
-自动删除B站转发抽奖动态：https://github.com/monSteRhhe/bilibili-dynamic-del
-
-成分识别脚本：https://greasyfork.org/zh-CN/scripts/462288-%E6%94%B9-b%E7%AB%99%E6%88%90%E5%88%86%E6%A3%80%E6%B5%8B%E5%99%A8
-
-## BT下载
-
-qBEE仓库: https://github.com/c0re100/qBittorrent-Enhanced-Edition
-
-PeerBanHelper仓库: https://github.com/PBH-BTN/PeerBanHelper
-
-docker版本的qBEE仓库: https://github.com/SuperNG6/Docker-qBittorrent-Enhanced-Edition
-
-qBEE的docker镜像：https://hub.docker.com/r/superng6/qbittorrentee
-
-彩蛋：RARBG国外电影资源站-https://en.rarbg-official.com/
-
-## [玩转服务器](https://www.bilibili.com/video/BV1dNzgYoEND)
-
-宝塔面板安装教程：https://www.bt.cn/bbs/thread-19376-1-1.html
-
-中转API：https://openai-hk.com/open/index （chatgpt-web-midjourney-proxy仓库作者推荐）
-
-爱影CMS官网：http://iycms.com/index.html
-
-爱影CMS安装教程：https://bbs.iycms.com/#/plate/detail?id=30
-
-黑木耳电影资源使用教程：https://www.heimuer.tv/help/index.html#IyCms
-
-## 漫画翻译
-
-misaka translator B站地址： https://www.bilibili.com/video/BV1Qt4y11713/
-
-misaka translator GitHub地址：https://github.com/hanmin0822/MisakaTranslator
-
-comic-translate : https://github.com/ogkalu2/comic-translate
-
-## [压缩包破解](https://www.bilibili.com/video/BV162yfYQEv1)
+## [如何破解带有密码的压缩包？](https://www.bilibili.com/video/BV162yfYQEv1)
 
 Advanced Archive Password Recovery 4.54-压缩包破解工具
 
@@ -69,7 +31,7 @@ ARCHPR详细使用教程可以参考：https://www.52pojie.cn/thread-1691394-1-1
 fcrackzip详细使用教程可以参考：https://cloud.tencent.com/developer/article/2092291
 （视频演示中加了-v选项，可以实时查看解密过程）
 
-## [在线视频下载相关链接](https://www.bilibili.com/video/BV1WaCUYtEcA)
+## [老司机是如何下载网页视频的](https://www.bilibili.com/video/BV1WaCUYtEcA)
 
 在线解析网站推荐 https://www.xiazaitool.com/
 
