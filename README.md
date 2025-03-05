@@ -2,6 +2,8 @@
 
 🌟Welcome to Yuanbao's open-source repository.🌟
 
+[《如何去除AI味?》](./How2DetectAIGC.md)
+
 [测试DeepSeek是否满血问题合集](./DeepSeek_Full_Capacity_Test.md)
 
 [《DeepSeek是被吹出来的？还是真的强？》视频参考资料](./DeepSeek_Hype_vs_Power.md)
