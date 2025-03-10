@@ -2,6 +2,8 @@
 
 🌟Welcome to Yuanbao's open-source repository.🌟
 
+[DeepSeek接入微信/AI客服/自动聊天机器人-资源教程合集](./AIChatBot.md)
+
 [《如何去除AI味?》](./How2DetectAIGC.md)
 
 [测试DeepSeek是否满血问题合集](./DeepSeek_Full_Capacity_Test.md)
