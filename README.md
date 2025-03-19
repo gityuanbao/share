@@ -2,6 +2,8 @@
 
 🌟Welcome to Yuanbao's open-source repository.🌟
 
+[鉴定热门AI黑科技13](./GeoSpy-memeVideo.md)
+
 [DeepSeek接入微信/AI客服/自动聊天机器人-资源教程合集](./AIChatBot.md)
 
 [《如何去除AI味?》](./How2DetectAIGC.md)
