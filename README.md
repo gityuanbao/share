@@ -2,6 +2,8 @@
 
 🌟Welcome to Yuanbao's open-source repository.🌟
 
+[没钱做推广的冷门AI好用吗？AI工具大合集！](./AICollect.md)
+
 [鉴定热门AI黑科技14](./AIVideo.md)
 
 [鉴定热门AI黑科技13](./GeoSpy-memeVideo.md)
