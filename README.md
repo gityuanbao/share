@@ -2,6 +2,11 @@
 
 🌟Welcome to Yuanbao's open-source repository.🌟
 
+《马赛克居然被修复了？》
+图片混淆：https://xfqtphx.netlify.app
+光棱坦克：https://prism.uyanide.com
+字符加密：https://www.gongjuwa.com/secret/
+
 [鉴定热门AI黑科技15-图文教程链接直达](https://xka17iu4p5.feishu.cn/docx/Zn6edmDtMoHlS0xK7Y8ch6y0n0c?from=from_copylink)
 
 [没钱做推广的冷门AI好用吗？AI工具大合集！](./AICollect.md)
