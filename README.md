@@ -2,10 +2,9 @@
 
 🌟Welcome to Yuanbao's open-source repository.🌟
 
-《马赛克居然被修复了？》
-图片混淆：https://xfqtphx.netlify.app
-光棱坦克：https://prism.uyanide.com
-字符加密：https://www.gongjuwa.com/secret/
+[Nova Reel 视频生成图文教程 链接直达](https://xka17iu4p5.feishu.cn/docx/Z0l9dDdUwoaufJxORTacON0Lnqb?from=from_copylink)
+
+[马赛克居然被修复了？](./secret.md)
 
 [鉴定热门AI黑科技15-图文教程链接直达](https://xka17iu4p5.feishu.cn/docx/Zn6edmDtMoHlS0xK7Y8ch6y0n0c?from=from_copylink)
 
