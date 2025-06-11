@@ -2,6 +2,8 @@
 
 🌟Welcome to Yuanbao's open-source repository.🌟
 
+[如何制作AI预制视频？图文教程-链接直达](https://xka17iu4p5.feishu.cn/docx/BUBDdOPjToShpKxHdsHcdGuEntg?from=from_copylink)
+
 [视频AI工作流是史吗？视频工作流图文教程-链接直达](https://xka17iu4p5.feishu.cn/docx/We22dQR1IokOlpxTtvnc9QN2nYg?from=from_copylink)
 
 [Nova Reel 视频生成图文教程 链接直达](https://xka17iu4p5.feishu.cn/docx/Z0l9dDdUwoaufJxORTacON0Lnqb?from=from_copylink)
