@@ -2,6 +2,8 @@
 
 🌟Welcome to Yuanbao's open-source repository.🌟
 
+[AI换装/制作假名媛赚钱 comfyui & kontext 图文教程-链接直达](https://xka17iu4p5.feishu.cn/docx/Er8ddVrq7otf7WxU5xIcKSYRnec?from=from_copylink)
+
 [如何制作AI预制视频？图文教程-链接直达](https://xka17iu4p5.feishu.cn/docx/BUBDdOPjToShpKxHdsHcdGuEntg?from=from_copylink)
 
 [视频AI工作流是史吗？视频工作流图文教程-链接直达](https://xka17iu4p5.feishu.cn/docx/We22dQR1IokOlpxTtvnc9QN2nYg?from=from_copylink)
