@@ -2,6 +2,26 @@
 
 🌟Welcome to Yuanbao's open-source repository.🌟
 
+## AKShare 数据采集项目
+
+源码目录：[akshare_collector](./akshare_collector/)
+
+这是一个基于 AKShare 的量化数据采集项目，用于按模块采集 A 股、港股、期货、宏观经济、财经新闻、公司公告、行业板块和资金流等数据。
+
+- `main.py`：统一调度入口，可运行全部模块，也可指定单个模块运行。
+- `config.py`：配置采集时间范围、输出目录、日志目录、请求间隔和模块开关。
+- `modules/`：各类数据采集模块，包括股票行情、基本面、资金流、期货、港股、宏观、新闻、公告和行业板块。
+- `utils/`：目录创建、日志和通用辅助函数。
+
+运行方式：
+
+```bash
+cd akshare_collector
+pip install -r requirements.txt
+python main.py
+python main.py stock_daily
+```
+
 [AI辅助志愿填报-提示词收集-链接直达](https://xka17iu4p5.feishu.cn/docx/Gcj3dK4Cpoj40AxsDRzcZaIinB5?from=from_copylink)
 
 [AI换装/制作假名媛赚钱 comfyui & kontext 图文教程-链接直达](https://xka17iu4p5.feishu.cn/docx/Er8ddVrq7otf7WxU5xIcKSYRnec?from=from_copylink)
@@ -45,28 +65,6 @@
 [《老司机是如何下载网页视频的》资源链接](./how2download_video)
 
 [《你的脸，现在是我的了！手把手教你用DeepFaceLive》资源链接](./changeFace.md)
-
-## AKShare 数据采集项目
-
-源码目录：[akshare_collector](./akshare_collector/)
-
-这是一个基于 AKShare 的量化数据采集项目，用于按模块采集 A 股、港股、期货、宏观经济、财经新闻、公司公告、行业板块和资金流等数据。
-
-- `main.py`：统一调度入口，可运行全部模块，也可指定单个模块运行。
-- `config.py`：配置采集时间范围、输出目录、日志目录、请求间隔和模块开关。
-- `modules/`：各类数据采集模块，包括股票行情、基本面、资金流、期货、港股、宏观、新闻、公告和行业板块。
-- `utils/`：目录创建、日志和通用辅助函数。
-
-运行方式：
-
-```bash
-cd akshare_collector
-pip install -r requirements.txt
-python main.py
-python main.py stock_daily
-```
-
-运行生成的 `data/` 和 `logs/` 目录体积较大，不纳入仓库。
 
 ---
 
